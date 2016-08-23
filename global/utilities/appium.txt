@@ -1,0 +1,11 @@
+[caps]
+platformName = "iOS"
+deviceName = "iPhone 6"
+platformVersion = "9.0"
+app = "../samplescreenobject/sample_app/UICatalog.app"
+autoAcceptAlerts = "true"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
+Wait = 30
